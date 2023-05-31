@@ -1,7 +1,7 @@
 import random
 
 from google.cloud import bigquery
-from src.users.schema import schema
+from schema import schema
 from faker import Faker
 import uuid
 
